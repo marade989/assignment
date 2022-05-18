@@ -1,0 +1,10 @@
+Principal_b = int(input("Initial principal balance : "))
+annual_rate = float(input("interest rate: "))
+Time_inyears = 2
+Amount = Principal_b * (1 + annual_rate * Time_inyears)
+Final_result = Amount / 100 
+Cli_calc = Final_result  % 7
+
+print(Amount)
+print(Final_result)
+print(Cli_calc)
