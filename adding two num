@@ -1,0 +1,4 @@
+Ade_age = 36
+sola_AGE = 24
+Output_adesola = Ade_age + sola_AGE
+print("Sum of Ade_age and sola_AGE is :",  Output_adesola)
