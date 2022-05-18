@@ -1,0 +1,2 @@
+Student_Name = "Adepoju Maryam oluwatosin"
+print("The number of text in Student_Name is : ", len(Student_Name))
